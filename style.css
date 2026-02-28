@@ -1,0 +1,59 @@
+.banner {
+  background: url("img/img-0") no-repeat center center;
+  background-size: cover;
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+  text-align: center;
+  color: darkred;
+}
+
+.slogan {
+  text-align: center;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 0;
+  max-width: 100%;
+  padding-right: 3rem;
+  padding-left: 3rem;
+  background-color: lightgrey;
+}
+
+.block_3 {
+  flex: 0 0 auto;
+  width: 30%;
+  margin: 10px;
+}
+
+.cell_img {
+  width: 50%;
+}
+
+.cell-text {
+  width: 50%;
+  padding-left: 5rem;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  background-color: lightgrey;
+  margin: 1px;
+  padding: 10px;
+}
+
+.link {
+  color: navy;
+  text-align: left;
+}
+
+.menu {
+  font-size: 120%;
+  text-decoration: none;
+}
