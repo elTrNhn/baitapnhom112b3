@@ -1,5 +1,5 @@
 .banner {
-  background: url("img/img-0") no-repeat center center;
+  background: url("img-0") no-repeat center center;
   background-size: cover;
   padding-top: 12rem;
   padding-bottom: 12rem;
@@ -56,4 +56,5 @@ footer {
 .menu {
   font-size: 120%;
   text-decoration: none;
+
 }
